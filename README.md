@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krisha Joshi</h1>
 <h3 align="center">An aspiring student possessing zeal in Computer Science and Engineering and focused industry relevant skills.</h3>
-<image align=“right” alt=“coding” width=“400” src=“https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966”>
+<image align=“right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishajoshi14&label=Profile%20views&color=0e75b6&style=flat" alt="krishajoshi14" /> </p>
 

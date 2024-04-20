@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krisha Joshi</h1>
 <h3 align="center">An aspiring student possessing zeal in Computer Science and Engineering and focused industry relevant skills.</h3>
-<image align=“right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishajoshi14&label=Profile%20views&color=0e75b6&style=flat" alt="krishajoshi14" /> </p>
 
 - 🔭 I’m currently working on **Campus Management App**
 

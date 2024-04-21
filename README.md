@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisha Joshi</h1>
-<h3 align="center">An aspiring student possessing zeal in Computer Science and Engineering and focused industry relevant skills.</h3>
+<h3 align="center">An aspiring student possessing zeal in Computer Science and Engineering.</h3>
 
 
 - 🔭 I’m currently working on **Campus Management App**

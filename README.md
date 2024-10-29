@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krisha Joshi</h1>
-<h3 align="center">Passionate about Full stack development.</h3>
+<h3 align="center">Passionate about building innovative solutions, solving problems, and exploring the world of technology</h3>
 
 
 - 🔭 I’m currently working on **Campus Management App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DBMS,AI & ML**
 
 - 📫 How to reach me **krishasjoshi@gmail.com**
 
